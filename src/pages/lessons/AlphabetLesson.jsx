@@ -39,7 +39,7 @@ const AlphabetLesson = () => {
           transition={{ duration: 0.5 }}
           className="text-center mb-12"
         >
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">The Alphabet</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">The Alphabet (test) </h1>
           <p className="text-xl text-white/80">Click on each letter to hear its name.</p>
         </motion.div>
 
